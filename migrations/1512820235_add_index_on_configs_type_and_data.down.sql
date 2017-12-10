@@ -1,0 +1,1 @@
+DROP INDEX IF EXISTS configs_type_data_index;
